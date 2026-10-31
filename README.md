@@ -12,9 +12,9 @@
 
 ## 侧栏工作区卡片 · dsh-workspace-cards
 
-把侧栏「工作区」换成**正方形卡片网格**：列数随栏宽自动排、一行排不满就整行居中；默认只显示字标，鼠标停上去才浮出名称。当前工作区**常驻在网格上方**——点任意卡片换到常驻位，再点一次收起；常驻卡和网格之间的分隔条可拖高度。角标区分待处理 / 运行中 / 未读完成。卡片大小、圆角（0% 方块 → 50% 整圆）、图标大小、名称 / 边框 / 滚动条显隐都在「设置 → 工作区卡片」里调；图标可用字符、内置线性图标、自定义 SVG 或本机文件，深色同样适配。
+把侧栏「工作区」换成**正方形卡片网格**：列数随栏宽自动排、一行排不满就整行居中；默认只显示字标，鼠标停上去才浮出名称。两种视口，右上角「视图选项」里切：**工作区优先**——当前工作区常驻在网格上方（点任意卡片换到常驻位，再点一次收起；分隔条可拖高度）；**会话栏优先**——会话栏贴边铺满，卡片收进底部「工作区」按钮，点开抽屉选工作区就会打开它最近一条会话。角标区分待处理 / 运行中 / 未读完成。卡片大小、圆角（0% 方块 → 50% 整圆）、图标大小、名称 / 边框 / 滚动条显隐都在「设置 → 工作区卡片」里调；图标可用字符、内置线性图标、自定义 SVG 或本机文件，深色同样适配。
 
-<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/demo.gif" width="260" alt="常驻卡片、点卡片收起 / 展开、拖动分隔条、三种角标"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/demo.gif" width="260" alt="演示：悬停名称、切换两种视口、底部按钮开合卡片抽屉"></p>
 
 [仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装--卸载)
 
