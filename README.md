@@ -12,9 +12,9 @@
 
 ## 侧栏工作区卡片 · dsh-workspace-cards
 
-把侧栏「工作区」换成图标网格，点卡片原地放大成会话面板；角标区分待处理 / 运行中 / 未读完成，图标可用字符、内置线性图标或自定义 SVG。
+把侧栏「工作区」换成**正方形卡片网格**：列数随栏宽自动排、一行排不满就整行居中；默认只显示首字母字标，鼠标停上去才浮出名称。点卡片原地放大成会话面板，角标区分待处理 / 运行中 / 未读完成。卡片大小、圆角（0% 方块 → 50% 整圆）、图标大小、名称与滚动条显隐都在「设置 → 工作区卡片」里调；图标可用字符、内置线性图标、自定义 SVG 或本机文件，深色同样适配。
 
-<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/grid.png" width="200" alt="工作区卡片网格"> <img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/panel.png" width="200" alt="点卡片原地展开成会话面板"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/demo.gif" width="240" alt="悬停出名称、点卡片展开、点标题收回"></p>
 
 [仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装--卸载)
 
