@@ -14,7 +14,7 @@
 
 把侧栏「工作区」换成图标网格，点卡片原地放大成会话面板；角标区分待处理 / 运行中 / 未读完成，图标可用字符、内置线性图标或自定义 SVG。
 
-<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/grid.png" width="240" alt="工作区卡片网格"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/grid.png" width="200" alt="工作区卡片网格"> <img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/panel.png" width="200" alt="点卡片原地展开成会话面板"></p>
 
 [仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装--卸载)
 
