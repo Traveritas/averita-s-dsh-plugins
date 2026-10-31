@@ -6,7 +6,7 @@
 
 四套主题：昼雾 · 靛夜 / 冷晨 / 暮玫瑰 / 暮紫。背景二选一——点阵（四形，缩放 / 浓淡 / 动效可调）或流光（WebGL 噪声场）；品牌字标、新会话首屏星标都能改。设置 → 主题里即时切换。
 
-<img src="https://raw.githubusercontent.com/Traveritas/averita-dsh-theme-inspiration/main/preview/shots-new/a-l.png" width="640" alt="昼雾 · 靛夜 浅色实机">
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/averita-dsh-theme-inspiration/main/preview/shots-new/a-l.png" width="640" alt="昼雾 · 靛夜 浅色实机"></p>
 
 [仓库 →](https://github.com/Traveritas/averita-dsh-theme-inspiration) · [安装说明](https://github.com/Traveritas/averita-dsh-theme-inspiration#安装)
 
@@ -14,15 +14,15 @@
 
 把侧栏「工作区」换成图标网格，点卡片原地放大成会话面板；角标区分待处理 / 运行中 / 未读完成，图标可用字符、内置线性图标或自定义 SVG。
 
-<img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/grid.png" width="260" alt="工作区卡片网格">
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/grid.png" width="240" alt="工作区卡片网格"></p>
 
-[仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装)
+[仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装--卸载)
 
 ## 模型位滑条 · dsh-yet-another-slider-thingy
 
 把 composer 的模型位换成「模型行 + 思考强度滑条」：三套外观、五套特效、独立配色，拖动可切逐档 / 平滑。
 
-<img src="https://raw.githubusercontent.com/Traveritas/dsh-yet-another-slider-thingy/master/docs/skins.gif" width="560" alt="三套外观：紧凑 / 块面 / 胶囊">
+<p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-yet-another-slider-thingy/master/docs/skins.gif" width="560" alt="三套外观：紧凑 / 块面 / 胶囊"></p>
 
 [仓库 →](https://github.com/Traveritas/dsh-yet-another-slider-thingy) · [安装说明](https://github.com/Traveritas/dsh-yet-another-slider-thingy#安装)
 
