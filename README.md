@@ -16,7 +16,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/Traveritas/dsh-workspace-cards/main/docs/demo.gif?v=0.4.0" width="260" alt="演示：悬停名称、切换两种视口、底部按钮开合卡片抽屉"></p>
 
-[仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装--卸载)
+[仓库 →](https://github.com/Traveritas/dsh-workspace-cards) · [安装说明](https://github.com/Traveritas/dsh-workspace-cards#安装)
 
 ## 推理强度滑条 · dsh-yet-another-slider-thingy
 
