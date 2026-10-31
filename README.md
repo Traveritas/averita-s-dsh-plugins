@@ -4,7 +4,7 @@
 
 ## DSH主题集 · averita-dsh-theme-inspiration
 
-四套主题：昼雾 · 靛夜 / 冷晨 / 暮玫瑰 / 暮紫。背景二选一——点阵（四形，缩放 / 浓淡 / 动效可调））或流光（WebGL 噪声场；可自定义的品牌字标、新会话首屏。设置 → 主题里即时切换。
+四套主题：昼雾 · 靛夜 / 冷晨 / 暮玫瑰 / 暮紫。背景二选一——点阵（四形，缩放 / 浓淡 / 动效可调）或流光（WebGL 噪声场）；品牌字标、新会话首屏星标与文案都能自定义。设置 → 主题里即时切换。
 
 <p align="center"><img src="https://raw.githubusercontent.com/Traveritas/averita-dsh-theme-inspiration/main/preview/shots-new/a-l.png" width="640" alt="昼雾 · 靛夜 浅色实机"></p>
 
