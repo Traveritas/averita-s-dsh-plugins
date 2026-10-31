@@ -28,13 +28,15 @@
 
 ## 安装
 
-都走 DSH 自带的应用内插件管理器：
+都走 DSH 自带的应用内插件管理器。先克隆要装的那个仓库（以工作区卡片为例）：
 
 ```powershell
-git clone --depth 1 https://github.com/Traveritas/<仓库名>.git D:\dsh\<目录名>
+git clone --depth 1 https://github.com/Traveritas/dsh-workspace-cards.git D:\dsh\dsh-workspace-cards
 ```
 
 然后 **设置 → 插件 → 添加插件**，spec 填克隆目录的**绝对路径**。看返回的 `application`：`applied` 即生效；`restart-required` 就完全退出桌面端再开。
+
+> 桌面端的 profile 由 Electron 独占，命令行 `dsh plugin --profile desktop ...` 会被拒，安装 / 卸载都走应用内插件管理器。
 
 每个仓库的 README 里写了它自己的配置项、依赖和已知限制。
 
