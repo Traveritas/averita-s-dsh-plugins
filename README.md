@@ -55,7 +55,7 @@ git clone --depth 1 https://github.com/Traveritas/dsh-workspace-cards.git D:\dsh
 - [petween-dsh](https://github.com/Traveritas/petween-dsh)：桌宠插件，但停止开发了，已转向桌面端，想了想还是放在这儿吧。
 
 ## 致谢
-LINUX DO(https://linux.do)
+[LINUX DO](https://linux.do)
 
 ## 许可
 
