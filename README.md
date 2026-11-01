@@ -1,6 +1,6 @@
 # AveritA 的 DSH 插件
 
-给 [DeepSeek Harness](https://github.com/deepseek-ai/dsh) 做的各种插件。一个插件一个仓库，可各自安装，无互相依赖/冲突。
+给 [DeepSeek Harness](https://github.com/deepseek-ai/dsh) 做的各种美化+体验改进插件。一个插件一个仓库，可各自安装，无互相依赖/冲突。
 
 ## DSH主题集 · averita-dsh-theme-inspiration
 
